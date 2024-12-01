@@ -1,0 +1,10 @@
+[
+    {
+        "id": "f_intermodal_crate_open",
+        "fg": "f_intermodal_crate_open"
+    },
+    {
+        "id": "f_sealed_intermodal_crate",
+        "fg": "f_sealed_intermodal_crate"
+    }
+]
